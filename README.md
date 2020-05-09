@@ -1,9 +1,13 @@
 # teste_github
 
-#Primeiro repositório
+# Primeiro repositório
 **repositório versionado pelo github**
 
  *repositório teste*
 
 
-* Alterei pelo site
+~*Alterei pelo site*~
+
+tarefas
+[] 1
+[x] 2

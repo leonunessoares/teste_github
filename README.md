@@ -14,6 +14,6 @@ tarefas
 
 **Tabela**
 
-Id|Nome 
-10|leo
-100|Nunes
+Id | Nome 
+10 | leo
+100 | Nunes
